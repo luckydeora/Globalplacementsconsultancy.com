@@ -1,0 +1,36 @@
+/*--gallery--*/
+.caption{
+	padding-top:10px;
+}
+.caption h3 {
+	margin: 0 0 24px 0;
+}
+.caption p {
+	margin: 0 0 7px 0;
+}
+.caption h4 {
+	line-height: 1.8em;
+	font-size: 1.1em;
+	color: #333;
+	text-transform: uppercase;
+	margin-bottom:3px;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+}
+.caption p {
+	font-size: 13px;
+	padding: 0.5em 0;
+	color: #707070;
+	line-height: 1.5em;
+}
+/*--blog--*/
+.page-not-found h1 {
+	font-size: 15em;
+	color: #F0F0F0;
+	text-align: center;
+	text-shadow: 1px 1px 6px #AAA;
+	-moz-text-shadow: 1px 1px 6px #aaa;
+	-webkit-text-shadow: 1px 1px 6px #aaa;
+	-o-text-shadow: 1px 1px 6px #aaa;
+}
